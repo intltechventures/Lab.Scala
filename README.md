@@ -30,6 +30,8 @@ News Sources
 * https://twitter.com/deanwampler
 * https://twitter.com/lightbend 
 * https://twitter.com/scalabase 
+* https://twitter.com/thescalawags
+
 
 Scala Community Resources
 * https://twitter.com/ScalaFriends
