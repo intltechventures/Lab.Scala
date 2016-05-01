@@ -1,5 +1,6 @@
 // Demo evaluation of value passed as argument, using if statement
-if (args(0).value > 50) {
+var i = 51
+if (i > 50) {
 	print("The number provided is greater than 50")
 }
 else {
