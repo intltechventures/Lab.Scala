@@ -35,6 +35,8 @@ Scala Community Resources
 * https://twitter.com/ScalaFriends
 * https://groups.google.com/forum/#!forum/scala-user
 * http://stackoverflow.com/questions/tagged/scala
+	* https://twitter.com/ScalaAtSO 
+
 
 Scala Conferences
 * https://twitter.com/scaladays
