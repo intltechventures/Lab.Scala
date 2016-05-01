@@ -29,7 +29,7 @@ News Sources
 * https://twitter.com/jamie_allen 
 * https://twitter.com/deanwampler
 * https://twitter.com/lightbend 
-
+* https://twitter.com/scalabase 
 
 Scala Community Resources
 * https://twitter.com/ScalaFriends
