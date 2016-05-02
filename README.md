@@ -57,6 +57,7 @@ Types & Category Theory
 * http://eed3si9n.com/herding-cats/
 * http://eed3si9n.com/learning-scalaz/
 * http://kanaka.io/blog/2015/11/09/shapeless-not-a-tutorial-part-1.html
+* http://kanaka.io/blog/2015/11/10/shapeless-not-a-tutorial-part-2.html
 * https://github.com/milessabin/shapeless/tree/shapeless-2.3.0/examples/src/main/scala/shapeless/examples
 * https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/
 * http://typeclassopedia.bitbucket.org/
