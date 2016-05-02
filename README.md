@@ -38,6 +38,7 @@ Scala Community Resources
 * https://groups.google.com/forum/#!forum/scala-user
 * http://stackoverflow.com/questions/tagged/scala
 	* https://twitter.com/ScalaAtSO 
+https://www.reddit.com/r/scala/ 
 
 
 Scala Conferences
@@ -47,3 +48,17 @@ Scala Conferences
 Interesting Github Projects
 * https://github.com/sirthias/swave
 	* A lightweight Reactive Streams implementation
+* https://github.com/milessabin/shapeless
+	* A type class and dependent type based generic programming library for Scala
+
+
+Types & Category Theory
+* https://www.reddit.com/r/scala/comments/4g43js/union_types_in_scala/d2fm0lf 
+* http://eed3si9n.com/herding-cats/
+* http://eed3si9n.com/learning-scalaz/
+* http://kanaka.io/blog/2015/11/09/shapeless-not-a-tutorial-part-1.html
+* https://github.com/milessabin/shapeless/tree/shapeless-2.3.0/examples/src/main/scala/shapeless/examples
+* https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/
+* http://typeclassopedia.bitbucket.org/
+
+
