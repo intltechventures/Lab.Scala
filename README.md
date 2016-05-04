@@ -12,6 +12,8 @@ Suggested Scala / Functional Programming Books
 * [Functional Thinking: Paradigm Over Syntax, 1st Edition] (http://www.amazon.com/Functional-Thinking-Paradigm-Over-Syntax/dp/1449365515/)
 * [Functional Programming in Scala, 1st Edition] (http://www.amazon.com/Functional-Programming-Scala-Paul-Chiusano/dp/1617290653)
 * [Scala Cookbook: Recipes for Object-Oriented and Functional Programming] (http://www.amazon.com/Scala-Cookbook-Object-Oriented-Functional-Programming/dp/1449339611/)
+	* http://alvinalexander.com/scala 
+	* https://twitter.com/alvinalexander 
 * [Functional Programming for Java Developers: Tools for Better Concurrency, Abstraction, and Agility, 1st Edition] (http://www.amazon.com/Functional-Programming-Java-Developers-Concurrency/dp/1449311032)
 * [Becoming Functional] (http://www.amazon.com/Becoming-Functional-Joshua-Backfield/dp/1449368174)
 * [Functional Programming Pattersn in Scala and Clojure: Write Lean Programs for the JVM, 1st Edition] (http://www.amazon.com/Functional-Programming-Patterns-Scala-Clojure/dp/1937785475/)
