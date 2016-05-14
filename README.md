@@ -47,6 +47,11 @@ Scala Conferences
 * https://twitter.com/scaladays
 
 
+Important Scala Frameworks / Libraries
+* http://spray.io/
+
+
+
 Interesting Github Projects
 * https://github.com/sirthias/swave
 	* A lightweight Reactive Streams implementation
