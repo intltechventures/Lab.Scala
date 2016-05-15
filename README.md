@@ -12,14 +12,14 @@ Suggested Scala / Functional Programming Books
 * [Functional Thinking: Paradigm Over Syntax, 1st Edition] (http://www.amazon.com/Functional-Thinking-Paradigm-Over-Syntax/dp/1449365515/)
 * [Functional Programming in Scala, 1st Edition] (http://www.amazon.com/Functional-Programming-Scala-Paul-Chiusano/dp/1617290653)
 * [Scala Cookbook: Recipes for Object-Oriented and Functional Programming] (http://www.amazon.com/Scala-Cookbook-Object-Oriented-Functional-Programming/dp/1449339611/)
-	* http://alvinalexander.com/scala 
-	* https://twitter.com/alvinalexander 
+  * http://alvinalexander.com/scala 
+  * https://twitter.com/alvinalexander 
 * [Functional Programming for Java Developers: Tools for Better Concurrency, Abstraction, and Agility, 1st Edition] (http://www.amazon.com/Functional-Programming-Java-Developers-Concurrency/dp/1449311032)
 * [Becoming Functional] (http://www.amazon.com/Becoming-Functional-Joshua-Backfield/dp/1449368174)
 * [Functional Programming Pattersn in Scala and Clojure: Write Lean Programs for the JVM, 1st Edition] (http://www.amazon.com/Functional-Programming-Patterns-Scala-Clojure/dp/1937785475/)
 * [Pearls of Functional Algorithm Design, 1st Edition] (http://www.amazon.com/Pearls-Functional-Algorithm-Design-Richard/dp/0521513383/)
 * [Scala Puzzlers] (http://www.artima.com/shop/scala_puzzlers)
-* 
+* [S-99: Ninety-Nine Scala Problems] (http://aperiodic.net/phil/scala/s-99/) 
 
 
 News Sources
@@ -39,7 +39,7 @@ Scala Community Resources
 * https://twitter.com/ScalaFriends
 * https://groups.google.com/forum/#!forum/scala-user
 * http://stackoverflow.com/questions/tagged/scala
-	* https://twitter.com/ScalaAtSO 
+  * https://twitter.com/ScalaAtSO 
 https://www.reddit.com/r/scala/ 
 
 
@@ -54,9 +54,9 @@ Important Scala Frameworks / Libraries
 
 Interesting Github Projects
 * https://github.com/sirthias/swave
-	* A lightweight Reactive Streams implementation
+  * A lightweight Reactive Streams implementation
 * https://github.com/milessabin/shapeless
-	* A type class and dependent type based generic programming library for Scala
+  * A type class and dependent type based generic programming library for Scala
 
 
 Types & Category Theory
