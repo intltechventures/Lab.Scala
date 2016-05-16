@@ -1,2 +1,2 @@
 for (arg <- args)
-		println(arg)
+  println(arg)
