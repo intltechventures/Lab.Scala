@@ -4,9 +4,9 @@ pilots(0) = "Dick"
 pilots(1) = "TIm"
 pilots(2) = "Joe"
 for (pilot <- pilots)
-		println(pilot)
+  println(pilot)
 
 
 val students = Array("Mike", "Bob", "Jane")
 for (student <- students)
-		println(student)
+  println(student)
