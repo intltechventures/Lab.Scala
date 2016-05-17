@@ -70,3 +70,6 @@ Types & Category Theory
 * http://typeclassopedia.bitbucket.org/
 
 
+REPL Tips
+* To exit, enter: ```:q``` or ```sys.exit```
+
