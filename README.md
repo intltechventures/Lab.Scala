@@ -40,7 +40,11 @@ Scala Community Resources
 * https://groups.google.com/forum/#!forum/scala-user
 * http://stackoverflow.com/questions/tagged/scala
   * https://twitter.com/ScalaAtSO 
-https://www.reddit.com/r/scala/ 
+* https://www.reddit.com/r/scala/ 
+
+
+Online Courses
+* https://www.coursera.org/specializations/scala
 
 
 Scala Conferences
