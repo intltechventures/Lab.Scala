@@ -63,6 +63,10 @@ Interesting Github Projects
   * A type class and dependent type based generic programming library for Scala
 
 
+Interesting Gist
+* https://gist.github.com/bvenners/7e23d79aee56c40ce045f0f062035dc0#file-biasbyarityoverload-scala-L51
+
+
 Types & Category Theory
 * https://www.reddit.com/r/scala/comments/4g43js/union_types_in_scala/d2fm0lf 
 * http://eed3si9n.com/herding-cats/
