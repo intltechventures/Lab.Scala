@@ -61,6 +61,8 @@ Interesting Github Projects
   * A lightweight Reactive Streams implementation
 * https://github.com/milessabin/shapeless
   * A type class and dependent type based generic programming library for Scala
+* https://github.com/slamdata/matryoshka
+  * Generalized recursion schemes and traversals for Scala* https://github.com/slamdata/matryoshka
 
 
 Interesting Gist
