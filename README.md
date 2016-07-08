@@ -83,3 +83,7 @@ Types & Category Theory
 REPL Tips
 * To exit, enter: ```:q``` or ```sys.exit```
 
+
+
+Interesting Articles
+* https://github.com/nuttycom/logji/blob/master/the_strange_case_of_partial_functions.md
