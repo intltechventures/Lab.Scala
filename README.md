@@ -63,7 +63,8 @@ Interesting Github Projects
   * A type class and dependent type based generic programming library for Scala
 * https://github.com/slamdata/matryoshka
   * Generalized recursion schemes and traversals for Scala* https://github.com/slamdata/matryoshka
-
+* https://github.com/chrisokasaki/scads
+  * Scala Algorithms and Data Structures
 
 Interesting Gist
 * https://gist.github.com/bvenners/7e23d79aee56c40ce045f0f062035dc0#file-biasbyarityoverload-scala-L51
