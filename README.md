@@ -65,6 +65,11 @@ Interesting Github Projects
   * Generalized recursion schemes and traversals for Scala* https://github.com/slamdata/matryoshka
 * https://github.com/chrisokasaki/scads
   * Scala Algorithms and Data Structures
+* https://github.com/deanwampler/JustEnoughScalaForSpark.git
+* https://github.com/deanwampler/prog-scala-2nd-ed-code-examples.git
+* https://github.com/deanwampler/spark-scala-tutorial
+* https://github.com/apache/spark
+
 
 Interesting Gist
 * https://gist.github.com/bvenners/7e23d79aee56c40ce045f0f062035dc0#file-biasbyarityoverload-scala-L51
