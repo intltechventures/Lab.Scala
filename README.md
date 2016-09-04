@@ -62,7 +62,8 @@ Interesting Github Projects
 * https://github.com/milessabin/shapeless
   * A type class and dependent type based generic programming library for Scala
 * https://github.com/slamdata/matryoshka
-  * Generalized recursion schemes and traversals for Scala* https://github.com/slamdata/matryoshka
+  * Generalized recursion schemes and traversals for Scala
+  * https://github.com/slamdata/matryoshka
 * https://github.com/chrisokasaki/scads
   * Scala Algorithms and Data Structures
 * https://github.com/deanwampler/JustEnoughScalaForSpark.git
@@ -94,3 +95,7 @@ REPL Tips
 Interesting Articles
 * https://github.com/nuttycom/logji/blob/master/the_strange_case_of_partial_functions.md
 * http://scala-lang.org/news/2.12.0-M5
+
+
+Tips
+* http://stackoverflow.com/questions/7888944/what-do-all-of-scalas-symbolic-operators-mean
