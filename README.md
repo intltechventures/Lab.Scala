@@ -95,7 +95,7 @@ REPL Tips
 Interesting Articles
 * https://github.com/nuttycom/logji/blob/master/the_strange_case_of_partial_functions.md
 * http://scala-lang.org/news/2.12.0-M5
-
+* http://www.scala-lang.org/news/2.12.0
 
 Tips
 * http://stackoverflow.com/questions/7888944/what-do-all-of-scalas-symbolic-operators-mean
