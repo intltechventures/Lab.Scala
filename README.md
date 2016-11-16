@@ -97,5 +97,11 @@ Interesting Articles
 * http://scala-lang.org/news/2.12.0-M5
 * http://www.scala-lang.org/news/2.12.0
 
+
+Functional Programming Tutorials
+* http://www.lambdacat.com
+  * http://www.lambdacat.com/the-midnight-monad-a-journey-to-enlightenment/
+
+
 Tips
 * http://stackoverflow.com/questions/7888944/what-do-all-of-scalas-symbolic-operators-mean
