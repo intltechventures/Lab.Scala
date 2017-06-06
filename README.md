@@ -2,6 +2,7 @@
 
 References
 * http://scala-lang.org/
+* https://github.com/scala/scala-lang
 
 
 Suggested Scala / Functional Programming Books
@@ -105,3 +106,13 @@ Functional Programming Tutorials
 
 Tips
 * http://stackoverflow.com/questions/7888944/what-do-all-of-scalas-symbolic-operators-mean
+
+
+Interesting GitHub Resources
+* https://github.com/typelevel/cats
+* https://github.com/Verizon/journal
+* https://github.com/Verizon/remotely
+* https://github.com/databricks/scala-style-guide
+* https://github.com/gatling/gatling
+* https://github.com/scalaz/scalaz
+
