@@ -115,4 +115,4 @@ Interesting GitHub Resources
 * https://github.com/databricks/scala-style-guide
 * https://github.com/gatling/gatling
 * https://github.com/scalaz/scalaz
-
+* https://github.com/heroku/heroku-buildpack-scala
