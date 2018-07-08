@@ -11,9 +11,9 @@ Chapter-1: A Scalable Language
 	* "takes members of a class and adds members of a number of traits to them"
 	* Different aspects of classes can be encapsulated in different traits - sort of like multiple inheritance...
 * Functional
-	# Functions are 1st class values
-	# Operations of a program should map input values to output values rather than modify data (i.e. use immutable data structures)
-	# Methods should not have side effects ('referentially transparent')
+	* Functions are 1st class values
+	* Operations of a program should map input values to output values rather than modify data (i.e. use immutable data structures)
+	* Methods should not have side effects ('referentially transparent')
 * Strings are treated as high-level sequence of characters, can be queried by ```predicates```
 	* ```Function Literal```: A function that takes a character argument (represented by the "_")
 * Intersections: to combine types
