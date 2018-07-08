@@ -3,6 +3,7 @@ Reading Notes, from Programming in Scala, Third Edition
 ====
 
 Chapter-1: A Scalable Language
+* Type annotation synatx: ```{variable}: {Type}``` (postfix type syntax)
 * ```Actor``` class allows passing messages
 	* Syntax: {receiving object} ! {message}
 	* ```!``` is a method of the Actor class
@@ -16,7 +17,8 @@ Chapter-1: A Scalable Language
 	* Methods should not have side effects ('referentially transparent')
 * Strings are treated as high-level sequence of characters, can be queried by ```predicates```
 	* ```Function Literal```: A function that takes a character argument (represented by the "_")
-* Intersections: to combine types
+	* A function literal can be called a ```predicate``` if its result type is ```boolean```
+* Intersections: to combine types (e.g. X with Y with Z)
 * Scala Static Type system advantages: 
 	* Verbosity avoided through type inference
 	* Flexibility gained through pattern matching 
