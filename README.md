@@ -5,6 +5,11 @@ References
 * https://github.com/scala/scala-lang
 
 
+Other Scala Implementations
+* https://www.scala-js.org/ 
+
+
+
 Suggested Scala / Functional Programming Books
 * [Programming in Scala, Third Edition] (http://www.artima.com/shop/programming_in_scala_3ed)
 * [Programming Scala, 2nd Edition] (http://www.amazon.com/Programming-Scala-Scalability-Functional-Objects/dp/1491949856)
