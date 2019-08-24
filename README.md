@@ -1,22 +1,27 @@
 # Lab.Scala
 
-References
+## References
 * http://scala-lang.org/
 * https://github.com/scala/scala-lang
 
 
-Other Scala Implementations
+## Other Scala Implementations
 * https://www.scala-js.org/ 
 
 
 
-Suggested Scala / Functional Programming Books
+## Suggested Scala / Functional Programming Books
 * [Programming in Scala, Third Edition] (http://www.artima.com/shop/programming_in_scala_3ed)
 * [Programming Scala, 2nd Edition] (http://www.amazon.com/Programming-Scala-Scalability-Functional-Objects/dp/1491949856)
 * [Pragmatic Scala: Create Expressive, Concise, and Scalable Applications] (http://www.amazon.com/Pragmatic-Scala-Expressive-Scalable-Applications/dp/1680500546/)
 * [Learning Scala: Practical Functional Programming for the JVM, 1st Edition] (http://www.amazon.com/Learning-Scala-Practical-Functional-Programming/dp/1449367933/)
 * [Functional Thinking: Paradigm Over Syntax, 1st Edition] (http://www.amazon.com/Functional-Thinking-Paradigm-Over-Syntax/dp/1449365515/)
 * [Functional Programming in Scala, 1st Edition] (http://www.amazon.com/Functional-Programming-Scala-Paul-Chiusano/dp/1617290653)
+* [Category Theory for Programmers (Scala Edition), by Bartosz Milewski](https://www.blurb.com/b/9603882-category-theory-for-programmers-scala-edition-pape)
+  * https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/
+  * https://github.com/hmemcpy/milewski-ctfp-pdf/
+  * https://bartoszmilewski.com/
+    * [Youtube Talks](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
 * [Scala Cookbook: Recipes for Object-Oriented and Functional Programming] (http://www.amazon.com/Scala-Cookbook-Object-Oriented-Functional-Programming/dp/1449339611/)
   * http://alvinalexander.com/scala 
   * https://twitter.com/alvinalexander 
@@ -28,7 +33,8 @@ Suggested Scala / Functional Programming Books
 * [S-99: Ninety-Nine Scala Problems] (http://aperiodic.net/phil/scala/s-99/) 
 
 
-News Sources
+
+## News Sources
 * https://twitter.com/scalatimes 
 * http://scalatimes.com/ 
 * https://twitter.com/ScalaFact 
@@ -41,7 +47,7 @@ News Sources
 * https://twitter.com/thescalawags
 
 
-Scala Community Resources
+## Scala Community Resources
 * https://twitter.com/ScalaFriends
 * https://groups.google.com/forum/#!forum/scala-user
 * http://stackoverflow.com/questions/tagged/scala
@@ -49,20 +55,20 @@ Scala Community Resources
 * https://www.reddit.com/r/scala/ 
 
 
-Online Courses
+## Online Courses
 * https://www.coursera.org/specializations/scala
 
 
-Scala Conferences
+## Scala Conferences
 * https://twitter.com/scaladays
 
 
-Important Scala Frameworks / Libraries
+## Important Scala Frameworks / Libraries
 * http://spray.io/
 
 
 
-Interesting Github Projects
+## Interesting Github Projects
 * https://github.com/sirthias/swave
   * A lightweight Reactive Streams implementation
 * https://github.com/milessabin/shapeless
@@ -78,42 +84,44 @@ Interesting Github Projects
 * https://github.com/apache/spark
 
 
-Interesting Gist
+## Interesting Gist
 * https://gist.github.com/bvenners/7e23d79aee56c40ce045f0f062035dc0#file-biasbyarityoverload-scala-L51
 
 
-Types & Category Theory
+## Types & Category Theory
 * https://www.reddit.com/r/scala/comments/4g43js/union_types_in_scala/d2fm0lf 
 * http://eed3si9n.com/herding-cats/
 * http://eed3si9n.com/learning-scalaz/
 * http://kanaka.io/blog/2015/11/09/shapeless-not-a-tutorial-part-1.html
 * http://kanaka.io/blog/2015/11/10/shapeless-not-a-tutorial-part-2.html
 * https://github.com/milessabin/shapeless/tree/shapeless-2.3.0/examples/src/main/scala/shapeless/examples
-* https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/
+* https://github.com/hmemcpy/milewski-ctfp-pdf/
+  * https://bartoszmilewski.com/
+    * https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/
 * http://typeclassopedia.bitbucket.org/
 
 
-REPL Tips
+# REPL Tips
 * To exit, enter: ```:q``` or ```sys.exit```
 
 
 
-Interesting Articles
+# Interesting Articles
 * https://github.com/nuttycom/logji/blob/master/the_strange_case_of_partial_functions.md
 * http://scala-lang.org/news/2.12.0-M5
 * http://www.scala-lang.org/news/2.12.0
 
 
-Functional Programming Tutorials
+# Functional Programming Tutorials
 * http://www.lambdacat.com
   * http://www.lambdacat.com/the-midnight-monad-a-journey-to-enlightenment/
 
 
-Tips
+# Tips
 * http://stackoverflow.com/questions/7888944/what-do-all-of-scalas-symbolic-operators-mean
 
 
-Interesting GitHub Resources
+# Interesting GitHub Resources
 * https://github.com/typelevel/cats
 * https://github.com/Verizon/journal
 * https://github.com/Verizon/remotely
